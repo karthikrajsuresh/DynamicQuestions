@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "question_id": 2,
+            "question": "Are you willing to take on student loans to finance your study abroad program",
+            "question_type": "YN",
+            "options": []
+        },
+        {
+            "question_id": 1,
+            "question": "What is your budget? (Tuition Fees+ Living Expense)",
+            "question_type": "TEXT",
+            "options": []
+        },
+        {
+            "question_id": 13,
+            "question": "What is your city preference?",
+            "question_type": "Text",
+            "options": []
+        },
+        {
+            "question_id": 27,
+            "question": " What ranking of universities do you prefer? ",
+            "question_type": "MCQ",
+            "options": [
+                "Top 100",
+                "Top 250",
+                "Top 500",
+                "Top 1000"
+            ]
+        },
+        {
+            "question_id": 17,
+            "question": " Are you looking for part time opportunity countries? ",
+            "question_type": "YN",
+            "options": []
+        },
+        {
+            "question_id": 28,
+            "question": " What course duration do you prefer? ",
+            "question_type": "MCQ",
+            "options": [
+                "2 years",
+                "3 years",
+                "4 years"
+            ]
+        }
+    ]
+}
